@@ -37,6 +37,23 @@ OUTPUT: values provided by the c++ program to the simulator
 ["rmse_y"]
 ["rmse_vx"]
 ["rmse_vy"]
+---
+
+## Output RMSE
+
+After running the code and tested in simulator, I got RMSE as:
+
+|RMSE| value |
+|----|--------|
+| px | 0.0973 |
+| py | 0.0855 |
+| vx | 0.4513 |
+| vy | 0.4399 |
+
+[RMSE]: ./RMSE.png "Undistorted Chess Board"
+
+![RMSE][RMSE]
+
 
 ---
 
